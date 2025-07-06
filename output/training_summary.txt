@@ -1,0 +1,23 @@
+Training Summary
+================
+Start Time: 2025-06-25 01:05:45
+End Time: 2025-06-25 02:26:52
+Total Training Time: 01:21:06
+Best Epoch (FID): 181 (G_loss=5.2814, FID=57.03)
+Best Epoch (G_loss): 110 (G_loss=3.5145)
+
+Hyperparameters:
+Batch Size: 128
+Image Size: 64
+Latent Size (nz): 256
+Generator Features: 64
+Discriminator Features: 64
+Epochs: 201
+Learning Rate: 0.0002
+Beta1: 0.5
+
+Evaluation Metrics Summary:
+Best FID: 57.03 at epoch 181
+Best SSIM: 0.1137 at epoch 91
+Best LPIPS: 0.2566 at epoch 161
+Best Diversity: 0.2734 at epoch 41
