@@ -83,7 +83,9 @@ python main.py
 ```sh
 python gen_img.py
 ```
+## 效果展示
 
+![生成头像样例](./output/generated_images/sample_grid.png)
 
 ## 工具脚本
 
