@@ -4,6 +4,7 @@
 
 ## 目录结构
 
+```
 .
 ├── config.py                # 配置文件
 ├── evaluate.py              # 模型评估脚本
@@ -39,7 +40,7 @@
     ├── change_resolution.py
     ├── cuda_test.py
     └── rename.py
-
+```
 
 ## 环境依赖
 
