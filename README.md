@@ -85,7 +85,7 @@ python gen_img.py
 ```
 ## 效果展示
 
-![生成头像样例](./output/generated_images/sample_grid.png)
+![生成头像样例](./output/generated_images/final_generation_selected.png)
 
 ## 工具脚本
 
